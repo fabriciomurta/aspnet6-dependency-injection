@@ -1,14 +1,6 @@
 
 using Microsoft.AspNetCore.ResponseCompression;
 
-// These can be disabled for Asp.NET 6
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-
-
 namespace pjstub
 {
     public class Startup
